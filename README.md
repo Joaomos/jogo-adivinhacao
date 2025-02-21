@@ -54,5 +54,5 @@ Parabéns, você acertou em 3 tentativas.
 - Criar uma interface gráfica com JavaFX.
 
 ## 👨‍💻 Autor
-Desenvolvido por [João Marcos](https://github.com/Joaomos. Sinta-se à vontade para contribuir! 🚀
+Desenvolvido por [João Marcos](https://github.com/Joaomos). Sinta-se à vontade para contribuir! 🚀
 
